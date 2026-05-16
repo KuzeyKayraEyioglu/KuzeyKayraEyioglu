@@ -52,9 +52,9 @@ https://www.youtube.com/@KuzeyKayraEyio%C4%9Flu
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KuzeyKayraEyioğlu&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KuzeyKayraEyioglu&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KuzeyKayraEyioğlu&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KuzeyKayraEyioglu&layout=compact&theme=dark)
 
 ---
 
