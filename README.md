@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Kuzey 👋
 
-<!--
-**KuzeyKayraEyioglu/KuzeyKayraEyioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 High school developer from Türkiye  
+🛠 Building Unity games, Blender tools & Python projects  
+📚 Learning C#, Python and game development
 
-Here are some ideas to get you started:
+## Current Projects
+- 🏠 Blender Procedural Room Generator
+- 🎮 Unity Horror Game
+- 🚔 GTA/Bully-style Unity game
+- 📈 CS50 Finance Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Unity • Blender • Python • C# • Git • SQLite • Flask
+
+## Goals
+- Build a strong GitHub portfolio
+- Release useful Blender add-ons
+- Publish indie games
+- Improve English to C1/C2
+
+YouTube: (https://www.youtube.com/@KuzeyKayraEyio%C4%9Flu)
