@@ -34,7 +34,8 @@ A Unity open-world sandbox project focused on realistic systems, AI behaviors, c
 
 ---
 
-🌱 Currently Learning
+## 🌱 Currently Learning
+
 - Advanced Unity systems
 - Blender add-on development
 - C# & Python
