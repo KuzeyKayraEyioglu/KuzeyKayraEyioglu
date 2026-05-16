@@ -17,6 +17,9 @@ An indie horror game focused on atmosphere, slow-burn tension and immersive envi
 ### 📈 CS50 Finance Project
 A Flask + SQLite stock simulation web app with live updates and analytics.
 
+### 🌆 Open-World Sandbox Game  
+A Unity open-world sandbox project focused on realistic systems, AI behaviors, combat, police, prison and immersive world mechanics.
+
 ---
 
 ## 🛠 Tech Stack
@@ -52,6 +55,10 @@ A Flask + SQLite stock simulation web app with live updates and analytics.
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KuzeyKayraEyioglu&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KuzeyKayraEyioglu&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=KuzeyKayraEyioglu&theme=dark&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KuzeyKayraEyioglu&theme=github-dark)
 
 ---
 
