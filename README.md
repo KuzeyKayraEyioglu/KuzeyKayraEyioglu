@@ -34,6 +34,15 @@ A Unity open-world sandbox project focused on realistic systems, AI behaviors, c
 
 ---
 
+🌱 Currently Learning
+- Advanced Unity systems
+- Blender add-on development
+- C# & Python
+- Computer Science (CS50)
+- English (towards C1/C2)
+
+---
+
 ## 🎯 Goals (2026–2027)
 
 - Build a strong GitHub portfolio
