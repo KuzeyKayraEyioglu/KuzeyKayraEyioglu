@@ -8,7 +8,7 @@
 
 ## 🚀 Current Projects
 
-### 🏠 Blender Procedural Room Generator
+### 🏠 [Blender Procedural Room Generator](https://github.com/KuzeyKayraEyioglu/blender-procedural-room-generator)
 A Blender add-on for generating editable procedural rooms with roofs, openings, doors, lighting and materials.
 
 ### 👻 Unity Horror Game
@@ -41,20 +41,17 @@ A Flask + SQLite stock simulation web app with live updates and analytics.
 
 ---
 
-## 📺 YouTube
+📺 Project Showcases & Devlogs
 
-I share project showcases and development progress:
-
-**YouTube Channel:**  
-https://www.youtube.com/@KuzeyKayraEyio%C4%9Flu
+[Visit My YouTube Channel](https://www.youtube.com/@KuzeyKayraEyio%C4%9Flu)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KuzeyKayraEyio%C4%9Flu&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KuzeyKayraEyioglu&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KuzeyKayraEyio%C4%9Flu&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KuzeyKayraEyioglu&layout=compact&theme=dark)
 
 ---
 
