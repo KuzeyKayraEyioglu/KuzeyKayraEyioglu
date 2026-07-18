@@ -11,14 +11,14 @@
 ### 🏠 [Blender Procedural Room Generator](https://github.com/KuzeyKayraEyioglu/blender-procedural-room-generator)
 A Blender add-on for generating editable procedural rooms with roofs, openings, doors, lighting and materials.
 
-### 👻 Unity Horror Game
-An indie horror game focused on atmosphere, slow-burn tension and immersive environments.
+### 🎮 CapsuleArena
+A fast-paced multiplayer FPS built with Unity, featuring tactical combat, optimized environments, custom assets and competitive game modes.
 
 ### 📈 CS50 Finance Project
 A Flask + SQLite stock simulation web app with live updates and analytics.
 
-### 🌆 Open-World Sandbox Game  
-A Unity open-world sandbox project focused on realistic systems, AI behaviors, combat, police, prison and immersive world mechanics.
+### 🧠 MindCore
+An experimental AI architecture focused on memory, reasoning, goals, emotions and autonomous decision-making.
 
 ---
 
