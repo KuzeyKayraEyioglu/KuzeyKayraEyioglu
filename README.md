@@ -44,6 +44,42 @@ An experimental AI architecture focused on memory, reasoning, goals, emotions an
 
 ---
 
+## 🏆 Certifications
+
+<p align="center">
+  <a href="./certificates/ccna-srwe.png">
+    <img src="./certificates/ccna-srwe.png"
+         alt="CCNA Switching, Routing and Wireless Essentials"
+         width="48%">
+  </a>
+
+  <a href="./certificates/cybersecurity-essentials.png">
+    <img src="./certificates/cybersecurity-essentials.png"
+         alt="Cybersecurity Essentials"
+         width="48%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="./certificates/introduction-to-cybersecurity.png">
+    <img src="./certificates/introduction-to-cybersecurity.png"
+         alt="Introduction to Cybersecurity"
+         width="48%">
+  </a>
+
+  <a href="./certificates/it-essentials-7.png">
+    <img src="./certificates/it-essentials-7.png"
+         alt="IT Essentials 7"
+         width="48%">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Certificates issued through the Cisco Networking Academy program.</sub>
+</p>
+
+---
+
 ## 🎯 Goals (2026–2027)
 
 - Build a strong GitHub portfolio
