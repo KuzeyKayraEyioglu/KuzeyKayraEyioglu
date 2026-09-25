@@ -84,6 +84,12 @@ An experimental AI architecture focused on memory, reasoning, goals, emotions an
          alt="C Essentials 2"
          width="48%">
   </a>
+
+  <a href="./certificates/C_Advanced.png">
+    <img src="./certificates/C_Advanced.png"
+         alt="C Essentials 2"
+         width="48%">
+  </a>
 </p>
 
 <p align="center">
