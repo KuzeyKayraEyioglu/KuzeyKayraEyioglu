@@ -90,6 +90,66 @@ An experimental AI architecture focused on memory, reasoning, goals, emotions an
          alt="C Essentials 2"
          width="48%">
   </a>
+
+  <a href="./certificates/HTML_Essentials.png">
+    <img src="./certificates/HTML_Essentials.png"
+         alt="HTML Essentials"
+         width="48%">
+  </a>
+
+  <a href="./certificates/C++_Essentials_1.png">
+    <img src="./certificates/C++_Essentials_1.png"
+         alt="C++ Essentials 1"
+         width="48%">
+  </a>
+
+  <a href="./certificates/C++_Essentials_2.png">
+    <img src="./certificates/C++_Essentials_2.png"
+         alt="C++ Essentials 2"
+         width="48%">
+  </a>
+
+  <a href="./certificates/C++_Advanced.png">
+    <img src="./certificates/C++_Advanced.png"
+         alt="C++ Advanced"
+         width="48%">
+  </a>
+
+  <a href="./certificates/CSS_Essentials.png">
+    <img src="./certificates/CSS_Essentials.png"
+         alt="CSS Essentials"
+         width="48%">
+  </a>
+
+  <a href="./certificates/JavaScript_Essentials_1.png">
+    <img src="./certificates/JavaScript_Essentials_1.png"
+         alt="JavaScript Essentials_1"
+         width="48%">
+  </a>
+
+  <a href="./certificates/JavaScript_Essentials_2.png">
+    <img src="./certificates/JavaScript_Essentials_2.png"
+         alt="JavaScript Essentials_2"
+         width="48%">
+  </a>
+
+  <a href="./certificates/Python_Essentials_1.png">
+    <img src="./certificates/Python_Essentials_1.png"
+         alt="Python Essentials 1"
+         width="48%">
+  </a>
+
+  <a href="./certificates/Python_Essentials_2.png">
+    <img src="./certificates/Python_Essentials_2.png"
+         alt="Python Essentials 2"
+         width="48%">
+  </a>
+
+  <a href="./certificates/Data_Science_Essentials_with_Python.png">
+    <img src="./certificates/Data_Science_Essentials_with_Python.png"
+         alt="Data Science Essentials with Python"
+         width="48%">
+  </a>
 </p>
 
 <p align="center">
