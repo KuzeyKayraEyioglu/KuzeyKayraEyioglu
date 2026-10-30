@@ -176,13 +176,7 @@ An experimental AI architecture focused on memory, reasoning, goals, emotions an
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KuzeyKayraEyioglu&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KuzeyKayraEyioglu&layout=compact&theme=dark)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=KuzeyKayraEyioglu&theme=dark&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KuzeyKayraEyioglu&theme=github-dark)
 
 ---
 
